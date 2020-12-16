@@ -1,0 +1,8 @@
+.cards__description {
+  /* Высота строки 23px, размер шрифта 18px, начертание шрифта
+  нормальное */
+  line-height: 23px;
+  font-size: 18px;
+  font-weight: normal;
+  margin: 16px 0 0 0;
+}
