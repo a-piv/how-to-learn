@@ -2,8 +2,3 @@
   color: #2f80ed;
   text-decoration: none;
 }
-
-.header__link:hover {
-  text-decoration: underline;
-  animation: opacity-link 1s linear forwards;
-}

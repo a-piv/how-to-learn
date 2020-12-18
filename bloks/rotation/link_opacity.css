@@ -1,0 +1,14 @@
+@keyframes opacity-link {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0.5;
+  }
+}
+
+.half-opacity:hover {
+  cursor: pointer;
+  text-decoration: underline;
+  animation: opacity-link 1s linear forwards;
+}

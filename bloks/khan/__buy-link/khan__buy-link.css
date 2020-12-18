@@ -6,8 +6,3 @@
   font-size: 30px;
   font-weight: normal;
 }
-
-.khan__buy-link:hover {
-  text-decoration: underline;
-  animation: opacity-link 1s linear forwards;
-}
